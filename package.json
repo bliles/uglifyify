@@ -8,11 +8,11 @@
     "extend": "^1.2.1",
     "minimatch": "^3.0.2",
     "through": "~2.3.4",
-    "uglify-es": "^3.0.15"
+    "uglify-js": "^3.3.11"
   },
   "devDependencies": {
     "bl": "^0.9.3",
-    "browserify": "^8.1.1",
+    "browserify": "^14.4.1",
     "from2": "^1.3.0",
     "tap-spec": "^2.1.2",
     "tape": "^3.2.0",
